@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "GD25Q16CTEGR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-05-28-09:40:10)
+    (mountForm default
+        (footprintRef "SOIC127P600X175-8N")
+        (spec "System")
+    )
+)

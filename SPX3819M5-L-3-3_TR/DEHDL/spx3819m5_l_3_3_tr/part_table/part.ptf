@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SPX3819M5_L_3_3_TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "EXAR", "SPX3819M5-L-3-3/TR" (!) = "", "SOT95P280X145-5N", "SOT23 (5-Pin)", "701-SPX3819M5-L-33TR", "https://www.mouser.com/Search/Refine.aspx?Keyword=701-SPX3819M5-L-33TR", "EXAR SPX3819M5-L-3-3/TR, Low Noise LDO Voltage Regulator, 100mA, 3.3 V, 1%, 2.5  16 Vin 5-Pin, SOT-23", "https://componentsearchengine.com/Datasheets/1/SPX3819M5-L-3-3_TR.pdf", "1.45 mm"
+END_PART
+
+END.

@@ -1,0 +1,17 @@
+.GSB1C41110SSHR :1 ;USB2.0, Type C, Top mount, Center Height 1.63mm, Single Row Surface Mount
+GSB1C41110SSHR
+*STM J
+*NGS
+*PNM 1=A1 2=A4 3=A5 4=A6 5=A7 6=A8 7=A9 8=A12 9=B5 10=B6 11=B7 12=B8 13=MP1 14=MP2 15=MP3 16=MP4
+*PLB 1="GND_1" 2="VBUS_1" 3="CC1" 4="DP1" 5="DN1" 6="SBU1" 7="VBUS_2" 8="GND_2" 9="CC2" 10="DP2" 11="DN2" 12="SBU2" 13="MP1" 14="MP2" 15="MP3" 16="MP4"
+*MXP 18
+*DFN GSB1C41110SSHR
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Amphenol Communications Solutions)
+~!Manufacturer_Part_Number (GSB1C41110SSHR)
+~!Link Datasheet (https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/gsb1c41x10sshr-ax1.pdf)
+~!Height (3.41mm)
+~!3D_Model (GSB1C41110SSHR)
+GSB1C41110SSHR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 

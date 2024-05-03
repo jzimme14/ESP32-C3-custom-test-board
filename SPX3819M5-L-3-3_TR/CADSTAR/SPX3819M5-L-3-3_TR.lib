@@ -1,0 +1,16 @@
+.SPX3819M5-L-3-3_TR :1 ;EXAR SPX3819M5-L-3-3/TR, Low Noise LDO Voltage Regulator, 100mA, 3.3 V, 1%, 2.5  16 Vin 5-Pin, SOT-23
+SOT95P280X145-5N
+*STM IC
+*NGS
+*PLB 1="VIN" 2="GND" 3="EN" 4="ADJ/BYP" 5="VOUT"
+*MXP 5
+*DFN SPX3819M5-L-3-3_TR
+~!Mouser Part Number (701-SPX3819M5-L-33TR)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=701-SPX3819M5-L-33TR)
+~!Manufacturer_Name (EXAR)
+~!Manufacturer_Part_Number (SPX3819M5-L-3-3/TR)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/SPX3819M5-L-3-3_TR.pdf)
+~!Height (1.45mm)
+~!3D_Model (SPX3819M5-L-3-3_TR)
+SPX3819M5-L-3-3_TR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

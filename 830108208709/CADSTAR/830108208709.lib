@@ -1,0 +1,16 @@
+.830108208709 :1 ;Crystals WE-XTAL 40.0MHz 10ppm 2.5 x 2.0mm
+"830108208709"
+*STM Y
+*NGS
+*PLB 1="CRYSTAL_1" 2="GND_1" 3="CRYSTAL_2" 4="GND_2"
+*MXP 4
+*DFN 830108208709
+~!Mouser Part Number (710-830108208709)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/830108208709?qs=hWgE7mdIu5RsJlcnX%2FC0HA%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (830108208709)
+~!Link Datasheet (https://www.we-online.com/components/products/datasheet/830108208709.pdf)
+~!Height (0.6mm)
+~!3D_Model (830108208709)
+"830108208709"
+1.1!U 2.1!U 3.1!U 4.1!U 

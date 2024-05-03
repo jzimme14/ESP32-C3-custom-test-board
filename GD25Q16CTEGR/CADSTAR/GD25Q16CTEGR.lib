@@ -1,0 +1,16 @@
+.GD25Q16CTEGR :1 ;NOR Flash 16Mbit NOR Flash /3.3V /SOP8 150mil /Industrial(-40? to +125?) /T&R
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="CS#" 2="SO (IO1)" 3="WP# (IO2)" 4="VSS" 5="SI (IO0)" 6="SCLK" 7="HOLD# (IO3)" 8="VCC"
+*MXP 8
+*DFN GD25Q16CTEGR
+~!Mouser Part Number (363-GD25Q16CTEGR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/GigaDevice/GD25Q16CTEGR?qs=RcG8xmE7yp3MEpo4fCwTkQ%3D%3D)
+~!Manufacturer_Name (GigaDevice Semiconductor (HK) Limited)
+~!Manufacturer_Part_Number (GD25Q16CTEGR)
+~!Link Datasheet (http://www.gigadevice.com/datasheet/gd25q16c/)
+~!Height (1.75mm)
+~!3D_Model (GD25Q16CTEGR)
+GD25Q16CTEGR
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

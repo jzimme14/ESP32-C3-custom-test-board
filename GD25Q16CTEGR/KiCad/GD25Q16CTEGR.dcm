@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GD25Q16CTEGR
+D NOR Flash 16Mbit NOR Flash /3.3V /SOP8 150mil /Industrial(-40? to +125?) /T&R
+K
+F http://www.gigadevice.com/datasheet/gd25q16c/
+$ENDCMP
+#
+#End Doc Library

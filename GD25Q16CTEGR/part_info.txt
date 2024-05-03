@@ -1,0 +1,9 @@
+Manufacturer=GigaDevice Semiconductor (HK) Limited
+PartNumber=GD25Q16CTEGR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2023-08-21 03:18:24
+Downloaded=2024-04-19 11:52:05
+3D=Y

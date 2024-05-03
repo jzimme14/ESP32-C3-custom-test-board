@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 830108208709
+D Crystals WE-XTAL 40.0MHz 10ppm 2.5 x 2.0mm
+K
+F https://www.we-online.com/components/products/datasheet/830108208709.pdf
+$ENDCMP
+#
+#End Doc Library

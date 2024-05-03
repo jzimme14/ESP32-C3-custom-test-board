@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GD25Q16CTEGR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "GigaDevice Semiconductor (HK) Limited", "GD25Q16CTEGR" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "363-GD25Q16CTEGR", "https://www.mouser.co.uk/ProductDetail/GigaDevice/GD25Q16CTEGR?qs=RcG8xmE7yp3MEpo4fCwTkQ%3D%3D", "NOR Flash 16Mbit NOR Flash /3.3V /SOP8 150mil /Industrial(-40? to +125?) /T&R", "http://www.gigadevice.com/datasheet/gd25q16c/", "1.75 mm"
+END_PART
+
+END.
