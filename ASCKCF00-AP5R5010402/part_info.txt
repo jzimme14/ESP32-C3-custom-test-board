@@ -1,0 +1,9 @@
+Manufacturer=Avago Technologies
+PartNumber=ASCKCF00-AP5R5010402
+PartCategory=LED
+PackageCategory=Other
+PinCount=2
+Version=2.1
+Released=2023-10-05 05:54:09
+Downloaded=2024-05-04 18:24:45
+3D=Y

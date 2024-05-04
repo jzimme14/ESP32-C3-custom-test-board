@@ -1,7 +1,7 @@
 *PADS-LIBRARY-PART-TYPES-V9*
 
 GSB1C41110SSHR GSB1C41110SSHR I CON 7 1 0 0 0
-TIMESTAMP 2024.04.19.11.10.17
+TIMESTAMP 2024.05.04.18.22.23
 "Mouser Part Number" 
 "Mouser Price/Stock" 
 "Manufacturer_Name" Amphenol Communications Solutions

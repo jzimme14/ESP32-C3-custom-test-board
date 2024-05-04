@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ASCKCF00_AP5R5010402'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Avago Technologies", "ASCKCF00-AP5R5010402" (!) = "", "ASCKCF00AP5R5010402", "Other", "630-ASCKCF00AP5R5010", "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ASCKCF00-AP5R5010402?qs=OcgtsXO%252B3gtPe1Ra16Jf1A%3D%3D", "Yellow-Green 572nm LED Indication - Discrete 2.1V 0603 (1608 Metric)", "https://docs.broadcom.com/doc/ASCKCx00-xxxxx0x0x02-DS", "0.75 mm"
+END_PART
+
+END.
