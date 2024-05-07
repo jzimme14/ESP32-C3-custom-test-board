@@ -1,0 +1,9 @@
+Manufacturer=Olimex Ltd.
+PartNumber=SMD IC SY8089AAAC
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.1
+Released=2024-04-25 09:50:11
+Downloaded=2024-05-05 10:06:13
+3D=Y
