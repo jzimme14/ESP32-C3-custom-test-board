@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Footprint_Lib")(type "KiCad")(uri "C:/Users/jakob/OneDrive/Dokumente/_Github/ESP32-C3-custom-test-board/Footprint_Lib.pretty")(options "")(descr ""))
+)

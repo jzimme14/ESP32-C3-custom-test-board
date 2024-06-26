@@ -4595,7 +4595,7 @@
     (property "Value" "~" (at 24.13 31.75 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "RF_Antenna:Texas_SWRA117D_2.4GHz_Right" (at 24.13 31.75 0)
+    (property "Footprint" "Footprint_Lib:Mono_Ant" (at 24.13 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 24.13 31.75 0)
